@@ -19,7 +19,10 @@
 
 ## Iniciando o Projeto
  - Execute um o comando pip install -r requirements.txt
- - Em seguida roda o comando python manage.py runserver
+ - Adiciono os seus dados de conexão ao banco de dados no settings.py
+ - Rode o comando python manage.py makemigrations
+ - Em seguida python manage.py migrate
+ - Depois roda o comando python manage.py runserver
 
 ## Objetivo
 - Aprender o funcionamento do Framework Django no back e front-end
