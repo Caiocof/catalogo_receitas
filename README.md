@@ -4,10 +4,10 @@
   <img src="https://github.com/Caiocof/caiocof/blob/main/img.png?raw=true" alt="PYTHON" width="120">
 <br>
 <br>
-    Projeto inicial com Django FullStack
+    Livro de Receitas
 </h1>
 
-<p align="center">Nesse projeto foi criado um sistema simples de receita com integração a banco de dados para listagem de receitas.</p>
+<p align="center">Nesse projeto foi criado um sistema simples de receita com Django e Postgres.</p>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 
 ## Iniciando o Projeto
- - Execute um o comando pip install -r requiremetnes.txt
+ - Execute um o comando pip install -r requirements.txt
  - Em seguida roda o comando python manage.py runserver
 
 ## Objetivo
